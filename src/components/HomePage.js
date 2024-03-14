@@ -43,11 +43,11 @@ const HomePage = () => {
         </thead>
         <tbody>
           <tr>
-            <td style={styles.td}>A B</td>
+            <td style={styles.td}>Raghav Adlakha</td>
             <td style={styles.td}>Developer</td>
           </tr>
           <tr>
-            <td style={styles.td}>C D</td>
+            <td style={styles.td}>Keerthana Krishnan</td>
             <td style={styles.td}>Designer</td>
           </tr>
         </tbody>
